@@ -135,7 +135,6 @@ class MainActivity : AppCompatActivity() {
             val badge = binding.navView.getOrCreateBadge(i)
             badge.apply {
                 isVisible = true
-                number = 99
             }
         }
 
