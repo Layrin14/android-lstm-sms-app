@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="fragment_labels">
+        <item>Personal</item>
+        <item>Scam</item>
+        <item>Promotions &amp; Status</item>
+    </string-array>
+
+    <integer-array name="fragment_icons">
+        <item>@drawable/ic_personal</item>
+        <item>@drawable/ic_scam</item>
+        <item>@drawable/ic_status_promo</item>
+    </integer-array>
+
+</resources>
