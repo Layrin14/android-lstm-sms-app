@@ -1,1 +1,1 @@
-# Simple Android SMS Classification App using LSTM
+# Simple Android SMS Classification App using LSTM \[Work in progress]
