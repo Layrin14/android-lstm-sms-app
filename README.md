@@ -1,5 +1,4 @@
 # Simple Android SMS Classification App using LSTM \[Work in progress]
-===========
 
 This is a repository of a simple Android SMS classification app that implement LSTM model on classifying Indonesian text messages from this [repository](https://github.com/Layrin14/Indonesian-Text-Message-Classification-LSTM).
 This app was built using Kotlin, the Android Jetpack-Navigation, Room, and Tensorflow-lite libraries.
