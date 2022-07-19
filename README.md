@@ -8,3 +8,5 @@ This app was built using Kotlin, the Android Jetpack-Navigation, Room, and Tenso
 * Classify incoming sms (real-time classification) using LSTM model into three classes (normal/ham, scam/fraud, promotions/advertisement).
 * Move/change conversation class in case of misclassification.
 * More features to come...
+
+## You can check demo video in here: [Youtube](https://youtu.be/qO1Hpx9CO18)
